@@ -11,7 +11,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     author="Amr Kayid",
-    url="https://github.com/AmrMKayid/nam",
+    url="https://github.com/NgocTruongNguyen/nam",
     packages=find_packages(),
     install_requires=[
         "torch",
